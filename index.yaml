@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  deproxy:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-07-19T05:57:55.700529954Z"
+    description: Deproxy Helm chart for Kubernetes
+    digest: ab2478b4544d9a92042a22912c2c14a151548c54be56f38703b38e9e5bbf1d1c
+    name: deproxy
+    type: application
+    urls:
+    - https://github.com/ScriptonBasestar-io/deproxy/releases/download/deproxy-0.1.0/deproxy-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-19T05:57:55.700540523Z"
